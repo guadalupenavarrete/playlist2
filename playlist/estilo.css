@@ -1,0 +1,87 @@
+body {
+    background-image: url(biza.webp);
+}
+
+p {
+    text-align: center;
+    color: rgb(117, 235, 71);
+}
+
+table {
+    background-color: #b3166fe9;
+    border: 2px solid #400D51;
+    border-collapse: collapse;
+}
+
+
+th {
+    border: 2px solid#81105f;
+}
+
+td {
+    f color: #080d0e;
+    border: 3px solid #5b157a;
+    border-collapse: #4C0033;
+    text-align: #0cd6d6;
+    text-align: center;
+}
+
+h1 {
+    color: #81105f;
+}
+
+#letra1 {
+    background-color: #81105f;
+
+
+
+
+
+
+
+}
+
+#letra2  {
+    background-color: #400D51;
+}
+
+
+#letra3{
+    background-color: #400D51;
+}
+#letrra4{
+    background-color: #400D51;
+}
+#letra5{
+    background-color: #400D51;
+}
+#letra6{
+    background-color: #400D51;
+}
+#letra7{
+    background-color: #400D51;
+}
+#letra8{
+    background-color: #400D51;
+}
+#letra9{
+    background-color: #400D51;
+}
+#letra10{
+    background-color: #400D51;
+}
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+header {
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
